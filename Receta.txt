@@ -8,5 +8,5 @@ Receta de Carne de res con verduras
 -sal y pimienta
 
 Pasos:
--A
--B
+1-A
+1-B
