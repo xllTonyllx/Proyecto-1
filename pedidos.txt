@@ -1,0 +1,3 @@
+pedidos|estado
+pedido A|Pendiente
+pedido B|Entregado
